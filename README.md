@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rohtak Patwardhan
+# HELLO!
 
 🎓 Electrical Engineering & Computer Science @ University of Wisconsin–Madison  
 📍 Madison, WI  
