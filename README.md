@@ -10,11 +10,4 @@
 
 **University of Wisconsin–Madison** — Electrical Engineering & Computer Science  
 
-**Relevant Coursework:**  
-Digital Systems Design, Signals, Circuit Analysis, Data Structures 
-
-**Languages I COULD Use** 
-1. C/C++ 
-2. Java
-3. Python
-4. (MATLAB?) (heavy on COULD)
+what else do i put here
