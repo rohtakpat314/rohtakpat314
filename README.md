@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohtak Patwardhan
 
-<!--
-**rohtakpat314/rohtakpat314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering & Computer Science @ University of Wisconsin–Madison  
+📍 Madison, WI  
+📫 rohtak.pat314@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**University of Wisconsin–Madison** — Electrical Engineering & Computer Science  
+
+**Relevant Coursework:**  
+Digital Systems Design, Signals, Circuit Analysis, Data Structures 
+
+**Languages I COULD Use** 
+1. C/C++ 
+2. Java
+3. Python
+4. (MATLAB?) (heavy on COULD)
