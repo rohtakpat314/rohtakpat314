@@ -11,6 +11,8 @@ rohtak.pat314@gmail.com
 
 ` 4.) Stock Market Analysis, Java `
 
+` 5.) 8x8 NeoPixel Mini Arcade, Embedded C++ `
+
 
 ## In-progress
 
