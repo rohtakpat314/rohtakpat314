@@ -1,5 +1,7 @@
-Electrical Engineering & Computer Science @ University of Wisconsin–Madison  
+EE/CS sophomore at UW–Madison building embedded systems, hardware tools, and AI-assisted developer software
+
 rohtak.pat314@gmail.com  
+rspatwardha2@wisc.edu
 
 ## Completed Projects
 
@@ -13,15 +15,10 @@ rohtak.pat314@gmail.com
 
 ` 5.) Terminal Wordle, Java `
 
-## In-progress
+## Active Projects
 
 ` 1.) SpecSift, JS & Python `
 
 ` 2.) RV32I CPU, SystemVerilog `
 
-`3.) Portfolio website (always being updated), Claude Code`
-
-
-## Not started
-
-`1.) RV32I Emulator Web App, JS, Vite & React`
+`3.) Portfolio website, Claude Code`
