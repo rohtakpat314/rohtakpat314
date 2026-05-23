@@ -5,14 +5,13 @@ rohtak.pat314@gmail.com
 
 ` 1.) N-Body Gravity Simulator, Python `
 
-` 2.) Educational Dice Game, Ruby on Rails `
+` 2.) USB multi-protocol bridge, C `
 
-` 3.) USB multi-protocol bridge, C `
+` 3.) Stock Market Analysis, Java `
 
-` 4.) Stock Market Analysis, Java `
+` 4.) 8x8 NeoPixel Mini Arcade, Embedded C++ `
 
-` 5.) 8x8 NeoPixel Mini Arcade, Embedded C++ `
-
+` 5.) Terminal Wordle, Java `
 
 ## In-progress
 
