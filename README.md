@@ -14,7 +14,7 @@ rohtak.pat314@gmail.com
 
 ## In-progress
 
-` 1.) SpecSift, JS/Python `
+` 1.) SpecSift, JS & Python `
 
 ` 2.) RV32I CPU, SystemVerilog `
 
