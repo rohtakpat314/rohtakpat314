@@ -18,9 +18,9 @@ rohtak.pat314@gmail.com
 
 ` 2.) RV32I CPU, SystemVerilog `
 
-` 3.) Portfolio website (always being updated), Claude Code`
+`3.) Portfolio website (always being updated), Claude Code`
 
 
 ## Not started
 
-` 1.) RV32I Emulator Web App, JS, Vite & React`
+`1.) RV32I Emulator Web App, JS, Vite & React`
