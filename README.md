@@ -3,7 +3,7 @@ rohtak.pat314@gmail.com
 
 ## Completed Projects
 
-` 1.) N-Body Gravity Simualtor, Python `
+` 1.) N-Body Gravity Simulator, Python `
 
 ` 2.) Educational Dice Game, Ruby on Rails `
 
