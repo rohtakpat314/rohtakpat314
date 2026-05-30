@@ -1,4 +1,4 @@
-EE/CS sophomore at UW–Madison building embedded systems, hardware tools, and AI-assisted developer software
+EE/CS student interested in embedded systems, hardware tools, and AI-assisted developer software
 
 rohtak.pat314@gmail.com  
 rspatwardha2@wisc.edu
