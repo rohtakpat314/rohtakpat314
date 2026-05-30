@@ -15,8 +15,10 @@ rspatwardha2@wisc.edu
 
 ` 5.) Terminal Wordle, Java `
 
+` 6.) RV32I CPU, SystemVerilog `
+
 ## Active Projects
 
 ` 1.) SpecSift, JS & Python `
 
-` 2.) RV32I CPU, SystemVerilog `
+` 2.) RV32I Pipelined CPU, SystemVerilog `
