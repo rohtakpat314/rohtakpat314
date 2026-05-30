@@ -28,7 +28,7 @@ Email (UW): rspatwardha2@wisc.edu
 
 ### Stock Market Analysis Tool | Java
 
-### 8×8 NeoPixel Mini Arcade System | Embedded C++
+### 8x8 NeoPixel Mini Arcade System | Embedded C++
 
 ### Terminal Wordle | Java
 
