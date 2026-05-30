@@ -20,5 +20,3 @@ rspatwardha2@wisc.edu
 ` 1.) SpecSift, JS & Python `
 
 ` 2.) RV32I CPU, SystemVerilog `
-
-`3.) Portfolio website, Claude Code`
