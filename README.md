@@ -12,10 +12,10 @@ Email (UW): rspatwardha2@wisc.edu
 
 ## 🧠 Key Technical Interests
 
-- Computer Architecture (RISC-V)
-- Digital Design (SystemVerilog, FPGA development)
-- Embedded Systems (C/C++)
-- Hardware Acceleration (DMA, SIMD, memory systems)
+- Computer Architecture 
+- Digital Design 
+- Embedded Systems
+- Hardware Acceleration 
 - AI-assisted developer tools and systems software
 
 ---
