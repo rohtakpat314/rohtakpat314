@@ -44,5 +44,3 @@ Email (UW): rspatwardha2@wisc.edu
 - System-level extension of RV32I CPU with DMA engine  
 - Goal: quantify CPU cycle savings and memory throughput improvement  
 - Includes benchmarking framework comparing CPU vs DMA execution  
-
-### SpecSift | JavaScript & Python
