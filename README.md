@@ -20,29 +20,8 @@ Email (UW): rspatwardha2@wisc.edu
 - Hardware Acceleration 
 - AI-assisted developer tools and systems software
 
----
-
-## 🚀 Completed Projects
-
-### N-Body Gravity Simulator | Python
-
-### USB Multi-Protocol Bridge | C
-
-### Stock Market Analysis Tool | Java
-
-### 8x8 NeoPixel Mini Arcade System | Embedded C++
-
-### Terminal Wordle | Java
-
-### RV32I Single-Cycle CPU | SystemVerilog
-
----
-
 ## 🔧 Active Projects
 
 ### RV32I Pipelined CPU | SystemVerilog
 
-### RV32I SoC with DMA Controller | SystemVerilog
-- System-level extension of RV32I CPU with DMA engine  
-- Goal: quantify CPU cycle savings and memory throughput improvement  
-- Includes benchmarking framework comparing CPU vs DMA execution  
+
