@@ -22,6 +22,6 @@ Email (UW): rspatwardha2@wisc.edu
 
 ## 🔧 Active Projects
 
-### RV32I Pipelined CPU | SystemVerilog
+### RV32IM Pipelined CPU | SystemVerilog
 
 
