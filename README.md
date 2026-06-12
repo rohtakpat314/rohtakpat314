@@ -1,8 +1,8 @@
-<img width="800" height="200" alt="st,small,507x507-pad,600x600,f8f8f8" src="https://github.com/user-attachments/assets/604c6223-e2fa-4d5c-96bf-7a9c8d107b13" />
+<img width="478" height="199" alt="image" src="https://github.com/user-attachments/assets/0769e957-0366-42d2-ac3a-fc9576fe21bb" />
 
 EE/CS student interested in embedded systems, computer architecture, hardware design, and AI-assisted developer tools.
 
-Currently open to internship & co-op roles in either FPGA, embedded systems, or Electrical Engineering roles :) 
+Currently open to internship & co-op roles in either FPGA, embedded systemsz, or Electrical Engineering roles :) 
 
 ![GitHub Repo](https://img.shields.io/badge/GitHub-rohtakpat314%2Friscvcpu-blue)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL-orange)
