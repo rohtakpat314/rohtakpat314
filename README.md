@@ -1,4 +1,5 @@
-<img width="350" height="400" alt="EXqiRV9VAAAzgZz" src="https://github.com/user-attachments/assets/d56ef1de-064d-4743-a9b8-3bf8e9aad59a" />
+<img width="600" height="600" alt="st,small,507x507-pad,600x600,f8f8f8" src="https://github.com/user-attachments/assets/604c6223-e2fa-4d5c-96bf-7a9c8d107b13" />
+
 EE/CS student interested in embedded systems, computer architecture, hardware design, and AI-assisted developer tools.
 
 Currently open to internship & co-op roles in either FPGA, embedded systems, or Electrical Engineering roles :) 
