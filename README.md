@@ -1,7 +1,5 @@
 EE/CS student interested in embedded systems, computer architecture, hardware design, and AI-assisted developer tools.
 
-Currently open to internship & co-op roles in either FPGA, embedded systems, or Electrical Engineering roles :) 
-
 ![GitHub Repo](https://img.shields.io/badge/GitHub-rohtakpat314%2Friscvcpu-blue)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL-orange)
 ![Focus](https://img.shields.io/badge/Focus-Computer_Architecture-red)
