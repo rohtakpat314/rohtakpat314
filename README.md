@@ -1,4 +1,4 @@
-EE/CS student interested in embedded systems, computer architecture, hardware design, and AI-assisted developer tools.
+EE student with a CS minor interested in embedded systems, computer architecture, hardware design, and AI-assisted developer tools as applied to financial markets and models.
 
 ![Focus](https://img.shields.io/badge/Focus-Computer_Architecture-red)
 
