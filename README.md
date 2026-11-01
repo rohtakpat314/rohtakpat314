@@ -4,3 +4,5 @@ EE student with a CS minor interested in embedded systems, computer architecture
 
 Email: rohtak.pat314@gmail.com  
 Email (UW): rspatwardha2@wisc.edu
+
+![Git Koi](koi/koi.gif)
